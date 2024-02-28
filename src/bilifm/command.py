@@ -23,7 +23,7 @@ def uid(uid: str):
         #audio = Audio(bv)
         #audio.download()
 
-    typer.echo("Download complete")
+    #typer.echo("Download complete")
 
 
 @app.command()
