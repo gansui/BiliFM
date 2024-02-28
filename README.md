@@ -7,8 +7,8 @@
 
 ## Intro
 
-An script to download all audios of the Bilibili uploader you love.  
-轻松下载指定up主全部或指定的视频音频。
+An script to print all video url links of the Bilibili uploader you love.  
+在BiliFM基础上修改，不下载，只输出指定up主全部或指定的视频链接，供其他工具下载。
 
 - ~~基于 [bilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) 制作，添加了指定up主和单个音频的功能，完善了命令行参数。~~
 
