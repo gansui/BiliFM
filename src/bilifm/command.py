@@ -19,8 +19,9 @@ def uid(uid: str):
 
     for video in user.videos:
         bv = video["bvid"]
-        audio = Audio(bv)
-        audio.download()
+        print("https://www.bilibili.com/video/" + bv)
+        #audio = Audio(bv)
+        #audio.download()
 
     typer.echo("Download complete")
 
